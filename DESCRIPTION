@@ -1,0 +1,12 @@
+Package: ggOBI
+Type: Package
+Title: Contains a ggplot theme and some plotting functions
+Version: 0.1.0
+Author: Markus Nutz 
+Maintainer: Markus Nutz <markus.nutz@gmx.de>
+Description: This package contains a ggplot theme more or less based on the design guide of OBI.
+    There are also two color palettes that are inspired by the wonderful OBI colours. 
+    The package is created as a final project for the SURV752 course Data Visualisation of the IPSDS program.
+License: MIT
+Encoding: UTF-8
+LazyData: true
