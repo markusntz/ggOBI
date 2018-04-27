@@ -18,7 +18,5 @@ test_that("all functions can be executed", {
 })
 
 test_that("color palettes can be loaded", {
-  expect_equal(length(obi_palettes[["greys"]]) == 7)
-  expect_equal(length(obi_palettes[["oranges"]]) == 7)
-  expect_equal(length(obi_palettes[["obi_autumn"]]) == 8)
+  expect_silent(obi_palettes)
 })
