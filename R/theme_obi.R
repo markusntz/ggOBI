@@ -14,6 +14,8 @@ theme_obi <- function(base_size = 11, base_family = "Ubuntu"){
       axis.ticks = element_blank(),
       axis.title = element_text(colour = "#797979", face = "plain", size = rel(0.8)),
       axis.text = element_text(colour = "#797979", size = rel(0.8)),
+      strip.background = element_blank(),
+      strip.text = element_text(colour = "#797979", size = rel(0.8)),
       complete = TRUE
       )
 
