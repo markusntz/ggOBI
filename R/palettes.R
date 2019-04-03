@@ -4,8 +4,6 @@ obi_palettes <- list(
   oranges = c(
     "#ff5b00",
     "#ff782e",
-    "#ff965c",
-    "#ffa979",
     "#ffb288",
     "#ffbc97",
     "#ffcfb4"
