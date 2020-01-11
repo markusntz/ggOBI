@@ -1,8 +1,6 @@
 ggOBI
 ================
 
-Aber Uni ist vorbei!
-
 Overview
 --------
 
